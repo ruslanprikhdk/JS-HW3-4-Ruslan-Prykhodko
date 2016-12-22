@@ -63,13 +63,4 @@ for(var i = 0; i < elements.length; i++) {
 
 document.body.appendChild(docFrag);
 
-//var body = document.querySelector('body');
-//body.appendChild(title, q1, c1);
-//body.appendChild(q1);
-//body.appendChild(c1);
-//body.appendChild(label1);
-//body.appendChild(c2);
-//body.appendChild(label2);
-//body.appendChild(c3);
-//body.appendChild(label3);
 
