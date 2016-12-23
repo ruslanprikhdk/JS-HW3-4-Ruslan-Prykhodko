@@ -10,15 +10,15 @@ div {
   font-size: 17px;
 }
 
+label {
+  display: block;
+}
+
 input[type = "checkbox"] {
   display: inline-block;
   margin: 8px 1% 8px 20%;
 }
 
-p {
-  display: inline-block;
-  width: 65%;
-}
 
 input[type = "button"] {
   margin: 50px 35% 0px 35%;
